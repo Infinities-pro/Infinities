@@ -14,7 +14,7 @@ def generate(generate_if_exists: bool, copy_dir: str):
     slt_path = slt_dir + "/test_simple_agg_big.slt"
     copy_path = copy_dir + "/test_simple_agg_big.csv"
 
-    os.makedirs(sort_dir, exist_ok=True)
+    os.makedirs(sort_dir, exist_ok=True) 
     os.makedirs(slt_dir, exist_ok=True)
     if os.path.exists(agg_path) and os.path.exists(slt_path) and not generate_if_exists:
         print(

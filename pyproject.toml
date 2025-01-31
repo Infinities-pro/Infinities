@@ -47,7 +47,7 @@ markers = [
     "L3",
     "complex",
     "slow",
-    "nightly",
+    "nighstly",
 ]
 
 filterwarnings = [

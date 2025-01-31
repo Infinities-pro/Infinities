@@ -10,6 +10,7 @@ Full-text, vector, sparse vector, tensor, hybrid search.
 
 ## Overview
 
+
 This document offers guidance on conducting a search within Infinity.
 
 ## Full-text search

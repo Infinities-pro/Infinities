@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="187" src="https://github.com/infiniflow/infinity/assets/7248/015e1f02-1f7f-4b09-a0c2-9d261cd4858b" alt="Infinity logo"/>
+  <img width="187" src="https://x.com/infinities_pro/photo" alt="Infinity logo"/>
 </div>
 
 
@@ -8,9 +8,9 @@
 </p>
 
 <h4 align="center">
-  <a href="https://infiniflow.org/docs/dev/category/get-started">Document</a> |
-  <a href="https://infiniflow.org/docs/dev/benchmark">Benchmark</a> |
-  <a href="https://twitter.com/infiniflowai">Twitter</a> |
+  <a href="https://docs.infinities.pro">Document</a> |
+  <a href="https://docs.infinities.pro/benchmark">Benchmark</a> |
+  <a href="https://x.com/infinities_pro">Twitter</a> |
   <a href="https://discord.gg/jEfRUwEYEV">Discord</a>
 </h4>
 
@@ -38,7 +38,7 @@ Infinity comes with high performance, flexibility, ease-of-use, and many feature
 - Achieves 0.1 milliseconds query latency and 15K+ QPS on million-scale vector datasets.
 - Achieves 1 millisecond latency and 12K+ QPS in full-text search on 33M documents.
 
-> See the [Benchmark report](https://infiniflow.org/docs/dev/benchmark) for more information.
+> See the [Benchmark report](https://docs.infinities.pro/benchmark) for more information.
 
 ### 🔮 Powerful search
 
@@ -51,7 +51,7 @@ Supports a wide range of data types including strings, numerics, vectors, and mo
 
 ### 🎁 Ease-of-use
 
-- Intuitive Python API. See the [Python API](https://infiniflow.org/docs/dev/pysdk_api_reference)
+- Intuitive Python API. See the [Python API](https://docs.infinities.pro/pysdk_api_reference)
 - A single-binary architecture with no dependencies, making deployment a breeze.
 - Embedded in Python as a module and friendly to AI developers.  
 
@@ -82,31 +82,30 @@ Infinity supports two working modes, embedded mode and client-server mode. Infin
    print(res)
    ```
 
-> 💡 For more information about Infinity's Python API, see the [Python API Reference](https://infiniflow.org/docs/dev/pysdk_api_reference).
+> 💡 For more information about Infinity's Python API, see the [Python API Reference](https://docs.infinities.pro/pysdk_api_reference).
 
 #### 🔧 Deploy Infinity in client-server mode
 
-If you wish to deploy Infinity with the server and client as separate processes, see the [Deploy infinity server](https://infiniflow.org/docs/dev/deploy_infinity_server) guide.
+If you wish to deploy Infinity with the server and client as separate processes, see the [Deploy infinity server](https://docs.infinities.pro/deploy_infinity_server) guide.
 
 #### 🔧 Build from Source
 
-See the [Build from Source](https://infiniflow.org/docs/dev/build_from_source) guide.
+See the [Build from Source](https://docs.infinities.pro/build_from_source) guide.
 
 ## 📚 Document
 
-- [Quickstart](https://infiniflow.org/docs/dev/)
-- [Python API](https://infiniflow.org/docs/dev/pysdk_api_reference)
-- [HTTP API](https://infiniflow.org/docs/dev/http_api_reference)
-- [References](https://infiniflow.org/docs/dev/category/references)
-- [FAQ](https://infiniflow.org/docs/dev/FAQ)
+- [Quickstart](https://docs.infinities.pro/)
+- [Python API](https://docs.infinities.pro/pysdk_api_reference)
+- [HTTP API](https://docs.infinities.pro/http_api_reference)
+- [References](https://docs.infinities.pro/references)
+- [FAQ](https://docs.infinities.pro/FAQ)
 
 ## 📜 Roadmap
 
-See the [Infinity Roadmap 2025](https://github.com/infiniflow/infinity/issues/2393)
+See the [Infinity Roadmap 2025](https://infinities.pro/roadmap)
 
 ## 🙌 Community
 
-- [Discord](https://discord.gg/jEfRUwEYEV)
-- [Twitter](https://twitter.com/infiniflowai)
-- [GitHub Discussions](https://github.com/infiniflow/infinity/discussions)
+- [APP](https://infinities.pro/)
+- [Twitter](https://x.com/infinities_pro)
 

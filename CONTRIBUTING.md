@@ -32,7 +32,7 @@ The list below mentions some contributions you can make, but it is not a complet
 `git push origin my-branch.`
 6. Submit a pull request for review.
 
-### Before filing a PR
+### Before filing a PR 
 
 - Consider splitting a large PR into multiple smaller, standalone PRs to keep a traceable development history. 
 - Ensure that your PR addresses just one issue, or keep any unrelated changes small.
