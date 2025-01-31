@@ -1,7 +1,6 @@
 <div align="center">
-  <img width="187" src="https://x.com/infinities_pro/photo" alt="Infinity logo"/>
+  <img width="187" src="assets/logo.png" alt="Infinity logo"/>
 </div>
-
 
 <p align="center">
     <b>The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense embedding, sparse embedding, tensor and full-text</b>
