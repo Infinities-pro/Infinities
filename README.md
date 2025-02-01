@@ -146,7 +146,7 @@ Check out Infinity in action:
 
 <div align="center">
   <video width="600" controls>
-    <source src="assets/video.mov" type="video/mp4">
+    <source src="assets/video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
