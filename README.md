@@ -1,6 +1,7 @@
 [![Website](https://img.shields.io/website?up_message=AVAILABLE&down_message=DOWN&url=https%3A%2F%2Finfinities.pro&style=for-the-badge)](https://infinities.pro)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/infinities_pro)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@infinities-pro)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jEfRUwEYEV)
 [![Docs](https://img.shields.io/badge/Docs-Documentation-green?style=for-the-badge)](https://docs.infinities.pro)
 [![Apache 2.0 License](https://img.shields.io/badge/license-Apache%202.0-blueviolet?style=for-the-badge)](https://www.apache.org/licenses/LICENSE-2.0)
 
