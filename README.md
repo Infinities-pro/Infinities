@@ -144,9 +144,5 @@ Join the conversation and connect with us:
 
 Check out Infinity in action:
 
-<div align="center">
-  <video width="600" controls>
-    <source src="assets/video.mov" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+[![Watch the Demo](assets/logo2.jpg)](assets/video.mov)
+
