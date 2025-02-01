@@ -1,3 +1,10 @@
+[![Website](https://img.shields.io/website?up_message=AVAILABLE&down_message=DOWN&url=https%3A%2F%2Fclickhouse.com&style=for-the-badge)](https://infinities.pro)
+[![Static Badge](https://img.shields.io/badge/Twitter)](https://x.com/infinities_pro)
+[![YouTube](https://img.shields.io/badge/Youtube)](https://www.youtube.com/@infinities-pro)
+![Docs](https://img.shields.io/badge/Docs)
+[![Apache 2.0 License](https://img.shields.io/badge/license-Apache%202.0-blueviolet?style=for-the-badge)](https://www.apache.org/licenses/LICENSE-2.0)
+
+
 <div align="center">
   <img width="950" src="assets/logo2.jpg" alt="Infinity Logo"/>
 </div>
