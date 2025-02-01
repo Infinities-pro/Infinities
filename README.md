@@ -144,5 +144,6 @@ Join the conversation and connect with us:
 
 Check out Infinity in action:
 
-[![Watch the Demo](assets/video.mov)]
+[![Watch the Demo on YouTube](assets/logo2.jpg)](https://www.youtube.com/watch?v=your_video_id)
+
 
