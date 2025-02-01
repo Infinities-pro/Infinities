@@ -144,6 +144,9 @@ Join the conversation and connect with us:
 
 Check out Infinity in action:
 
-[![Watch the Demo on YouTube](assets/logo2.jpg)](https://www.youtube.com/watch?v=GurwGicJnYM&ab_channel=Infinities)
-
-
+<div align="center">
+  <video width="600" controls>
+    <source src="assets/video.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
