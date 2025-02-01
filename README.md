@@ -144,5 +144,5 @@ Join the conversation and connect with us:
 
 Check out Infinity in action:
 
-[![Watch the Demo](assets/logo2.jpg)](assets/video.mov)
+[![Watch the Demo](assets/video.mov)]
 
