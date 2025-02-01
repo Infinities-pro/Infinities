@@ -109,7 +109,7 @@ For larger-scale deployments, you can set up Infinity in client-server mode. See
 ## 📈 Performance Comparison
 
 <div align="center">
-  <img src="/mnt/data/Screenshot 2025-02-01 at 10.29.02.png" alt="Infinity Performance Comparison">
+  <img src="assets/performance.png" alt="Infinity Performance Comparison">
 </div>
 
 ---
@@ -136,6 +136,7 @@ Join the conversation and connect with us:
 
 - [Website](https://infinities.pro/)
 - [Twitter](https://x.com/infinities_pro)
+- [YouTube](https://www.youtube.com/@infinities-pro)
 - [Discord](https://discord.gg/jEfRUwEYEV)
 
 ---
