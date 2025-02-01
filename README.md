@@ -1,11 +1,11 @@
-[![Website](https://img.shields.io/website?up_message=AVAILABLE&down_message=DOWN&url=https%3A%2F%2Finfinities.pro&style=for-the-badge)](https://infinities.pro)
+[![Website](https://img.shields.io/website?up_message=AVAILABLE&down_message=DOWN&url=https%3A%2F%2FInfinities Pro.pro&style=for-the-badge)](https://infinities.pro)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/infinities_pro)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@infinities-pro)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/48mvzHk6)
 [![Docs](https://img.shields.io/badge/Docs-Documentation-green?style=for-the-badge)](https://docs.infinities.pro)
 
 <div align="center">
-  <img width="980" src="assets/logo2.jpg" alt="Infinity Logo"/>
+  <img width="980" src="assets/logo2.jpg" alt="Infinities Pro Logo"/>
 </div>
 
 <p align="center">
@@ -13,15 +13,15 @@
 </p>
 
 <h4 align="center">
-  <a href="https://docs.infinities.pro">Documentation</a> |
-  <a href="https://docs.infinities.pro/benchmark">Benchmark</a> |
-  <a href="https://x.com/infinities_pro">Twitter</a> |
+  <a href="https://docs.Infinities Pro.pro">Documentation</a> |
+  <a href="https://docs.Infinities Pro.pro/benchmark">Benchmark</a> |
+  <a href="https://x.com/Infinities Pro_pro">Twitter</a> |
   <a href="https://discord.gg/48mvzHk6">Discord</a>
 </h4>
 
 ---
 
-Infinity is a cutting-edge AI-native database purpose-built for modern LLM applications. It supports robust hybrid search across diverse data types such as dense vectors, sparse vectors, tensors, full-text, and structured data. This makes it the perfect solution for applications like:
+Infinities Pro is a cutting-edge AI-native database purpose-built for modern LLM applications. It supports robust hybrid search across diverse data types such as dense vectors, sparse vectors, tensors, full-text, and structured data. This makes it the perfect solution for applications like:
 
 - **Search and Recommendations**
 - **Question-Answering Systems**
@@ -57,7 +57,7 @@ Infinity is a cutting-edge AI-native database purpose-built for modern LLM appli
 
 ## 🛠 Getting Started
 
-Infinity offers two modes of operation: **embedded mode** (for direct integration into Python applications) and **client-server mode** (for separate backend processes).
+Infinities Pro offers two modes of operation: **embedded mode** (for direct integration into Python applications) and **client-server mode** (for separate backend processes).
 
 ### ⚙ Embedded Mode
 
@@ -66,11 +66,11 @@ Install the embedded SDK:
 pip install infinity-embedded-sdk==0.6.0.dev2
 ```
 
-Use Infinity for dense vector search:
+Use Infinities Pro for dense vector search:
 ```python
 import infinity_embedded
 
-# Connect to Infinity
+# Connect to Infinities Pro
 infinity_object = infinity_embedded.connect("/absolute/path/to/save/to")
 
 # Retrieve a database object
@@ -96,35 +96,35 @@ res = table_object.output(["*"])\
 print(res)
 ```
 
-> 💡 Learn more in the [Python API Reference](https://docs.infinities.pro/pysdk_api_reference).
+> 💡 Learn more in the [Python API Reference](https://docs.Infinities Pro.pro/pysdk_api_reference).
 
-### 🔧 Deploy Infinity in Client-Server Mode
+### 🔧 Deploy Infinities Pro in Client-Server Mode
 
-For larger-scale deployments, you can set up Infinity in client-server mode. See the [Deploy Infinity Server](https://docs.infinities.pro/deploy_infinity_server) guide for details.
+For larger-scale deployments, you can set up Infinities Pro in client-server mode. See the [Deploy Infinities Pro Server](https://docs.Infinities Pro.pro/deploy_infinity_server) guide for details.
 
 ---
 
 ## 📈 Performance Comparison
 
 <div align="center">
-  <img src="assets/performance.png" alt="Infinity Performance Comparison">
+  <img src="assets/performance.png" alt="Infinities Pro Performance Comparison">
 </div>
 
 ---
 
 ## 📜 Documentation
 
-- [Quickstart](https://docs.infinities.pro/)
-- [Python API](https://docs.infinities.pro/pysdk_api_reference)
-- [HTTP API](https://docs.infinities.pro/http_api_reference)
-- [References](https://docs.infinities.pro/references)
-- [FAQ](https://docs.infinities.pro/FAQ)
+- [Quickstart](https://docs.Infinities Pro.pro/)
+- [Python API](https://docs.Infinities Pro.pro/pysdk_api_reference)
+- [HTTP API](https://docs.Infinities Pro.pro/http_api_reference)
+- [References](https://docs.Infinities Pro.pro/references)
+- [FAQ](https://docs.Infinities Pro.pro/FAQ)
 
 ---
 
 ## 🌟 Roadmap
 
-Curious about what’s next for Infinity? Check out the [Roadmap 2025](https://infinities.pro/roadmap) to learn more about upcoming features and improvements.
+Curious about what’s next for Infinities Pro? Check out the [Roadmap 2025](https://Infinities Pro.pro/roadmap) to learn more about upcoming features and improvements.
 
 ---
 
