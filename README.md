@@ -142,9 +142,10 @@ Join the conversation and connect with us:
 
 ## 🎥 Demo
 
-Check out Infinity in action:
+> [!NOTE]
+> Setting up and hosting the AutoGPT Platform yourself is a technical process. 
+> If you'd rather something that just works, we recommend [joining the waitlist](https://bit.ly/3ZDijAI) for the cloud-hosted beta.
 
-<video width="800" controls>
-  <source src="assets/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/8120bc03-75b5-4b5e-bb75-54d0a8439da9
+
+This tutorial assumes you have Docker, VSCode, git and npm installed.
