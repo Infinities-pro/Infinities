@@ -5,8 +5,10 @@
 [![Docs](https://img.shields.io/badge/Docs-Documentation-green?style=for-the-badge)](https://docs.infinities.pro)
 
 <div align="center">
-  <img width="980" src="assets/logo2.jpg" alt="Infinities Pro Logo"/>
-</div>
+
+<img src="assets/logo2.jpg" alt="fabriclogo" width="400" height="400"/>
+
+# `fabric`
 
 ![Static Badge](https://img.shields.io/badge/mission-human_flourishing_via_AI_augmentation-purple)
 <br />
@@ -15,7 +17,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <p class="align center">
-<h4><code>fabric</code> is an open-source framework for augmenting humans using AI.</h4>
+<h4><code>Infinities</code> is an LLM framework for augmenting humans using AI.</h4>
 </p>
 
 <p align="center">
