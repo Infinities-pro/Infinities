@@ -18,7 +18,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <p class="align center">
-<h4><code>Infinities</code> is an LLM framework for augmenting humans using AI.</h4>
 </p>
 
 <p align="center">
@@ -31,7 +30,7 @@
   <a href="https://x.com/Infinities Pro_pro">Twitter</a> |
   <a href="https://discord.gg/48mvzHk6">Discord</a>
 </h4>
-
+</p>
 ---
 
 Infinities Pro is a cutting-edge AI-native database purpose-built for modern LLM applications. It supports robust hybrid search across diverse data types such as dense vectors, sparse vectors, tensors, full-text, and structured data. This makes it the perfect solution for applications like:
