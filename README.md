@@ -8,6 +8,7 @@
 <div align="center">
 
 <img src="assets/logo2.jpg" alt="fabriclogo" width="1000"/>
+
 # `Infinities Pro`
 
 ![Static Badge](https://img.shields.io/badge/mission-human_flourishing_via_AI_augmentation-purple)
