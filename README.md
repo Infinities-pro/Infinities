@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/logo2.jpg" alt="fabriclogo" width="400" height="400"/>
+<img src="assets/logo2.jpg" alt="fabriclogo" width="1000"/>
 
 # `fabric`
 
