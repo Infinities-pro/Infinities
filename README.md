@@ -6,6 +6,38 @@
 [![Blog](https://img.shields.io/badge/Blog-Read%20Our%20Articles-orange?style=for-the-badge)](https://medium.com/@infinityonsolana/looking-ahead-the-future-of-vector-databases-c241626747b3)
 
 <div align="center">
+
+<img src="./images/fabric-logo-gif.gif" alt="fabriclogo" width="400" height="400"/>
+
+# `fabric`
+
+![Static Badge](https://img.shields.io/badge/mission-human_flourishing_via_AI_augmentation-purple)
+<br />
+![GitHub top language](https://img.shields.io/github/languages/top/danielmiessler/fabric)
+![GitHub last commit](https://img.shields.io/github/last-commit/danielmiessler/fabric)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+<p class="align center">
+<h4><code>fabric</code> is an open-source framework for augmenting humans using AI.</h4>
+</p>
+
+[Updates](#updates) •
+[What and Why](#whatandwhy) •
+[Philosophy](#philosophy) •
+[Installation](#Installation) •
+[Usage](#Usage) •
+[Examples](#examples) •
+[Just Use the Patterns](#just-use-the-patterns) •
+[Custom Patterns](#custom-patterns) •
+[Helper Apps](#helper-apps) •
+[Meta](#meta)
+
+![Screenshot of fabric](images/fabric-summarize.png)
+
+</div>
+
+
+<div align="center">
   <img width="900" src="assets/logo2.jpg" alt="Infinity Logo"/>
 </div>
 
