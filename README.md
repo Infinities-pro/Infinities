@@ -8,6 +8,16 @@
   <img width="980" src="assets/logo2.jpg" alt="Infinities Pro Logo"/>
 </div>
 
+![Static Badge](https://img.shields.io/badge/mission-human_flourishing_via_AI_augmentation-purple)
+<br />
+![GitHub top language](https://img.shields.io/github/languages/top/danielmiessler/fabric)
+![GitHub last commit](https://img.shields.io/github/last-commit/danielmiessler/fabric)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+<p class="align center">
+<h4><code>fabric</code> is an open-source framework for augmenting humans using AI.</h4>
+</p>
+
 <p align="center">
   <b>The AI-native database built for LLM applications, delivering lightning-fast hybrid search across dense embedding, sparse embedding, tensor (multi-vector), and full-text.</b>
 </p>
