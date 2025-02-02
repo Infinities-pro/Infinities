@@ -13,6 +13,14 @@
 
 ![Static Badge](https://img.shields.io/badge/mission-human_flourishing_via_AI_augmentation-purple)
 <br />
+
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/infinities_pro)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@infinities-pro)
+[![Website](https://img.shields.io/website?up_message=AVAILABLE&down_message=DOWN&url=https%3A%2F%2Finfinities.pro&style=for-the-badge)](https://infinities.pro)
+[![Website](https://img.shields.io/website?up_message=AVAILABLE&down_message=DOWN&url=https%3A%2F%2Finfinities.pro&style=for-the-badge)](https://infinities.pro)
+[![Docs](https://img.shields.io/badge/Docs-Documentation-green?style=for-the-badge)](https://docs.infinities.pro)
+[![Blog](https://img.shields.io/badge/Blog-Read%20Our%20Articles-orange?style=for-the-badge)](https://medium.com/@infinityonsolana/looking-ahead-the-future-of-vector-databases-c241626747b3)
+
 ![GitHub top language](https://img.shields.io/github/languages/top/Infinities-pro/Infinities)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Infinities-pro/Infinities)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
