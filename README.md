@@ -172,5 +172,3 @@ This tutorial assumes you have Docker, VSCode, git and npm installed.
 
 
 
-
-
